@@ -1,3 +1,7 @@
+#Mern-calendar-app 
+
+Es una aplicación de calendario creada en React junto con Node.js del lador del servidor, en otras herramientas utilizadas en este proyecto está Redux, para el manejo de estados de la aplicación, y en la base de datos MongoDB.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
